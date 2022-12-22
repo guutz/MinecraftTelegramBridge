@@ -1,7 +1,8 @@
 include 'core'
-include 'bridge-1.7'
-include 'bridge-1.14'
-include 'bridge-1.15'
-include 'bridge-1.16'
-include 'bukkit'
+// include 'bridge-1.7'
+// include 'bridge-1.14'
+// include 'bridge-1.15'
+// include 'bridge-1.16'
+include 'bridge-1.19.2'
+// include 'bukkit'
 
